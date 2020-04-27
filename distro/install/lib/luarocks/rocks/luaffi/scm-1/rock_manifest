@@ -1,0 +1,19 @@
+rock_manifest = {
+   doc = {
+      ["CONTRIBUTING.md"] = "d7e3d1fb86d2ed6eb42263a15a1d99b0",
+      LICENSE = "d9a5847404deb8450a48ac0bf1332b60",
+      ["README.md"] = "3745c28226497db60337395e18d8c9bd"
+   },
+   lib = {
+      ffi = {
+         ["libtest.so"] = "a3d79edf90f71e6f1b4cb5618b7e1150"
+      },
+      ["ffi.so"] = "d293d6ec26e18ef560f5e5129a45c7b9"
+   },
+   lua = {
+      ffi = {
+         ["test.lua"] = "2ed923269e9cdc5decf0f4d0453b5cf1"
+      }
+   },
+   ["luaffi-scm-1.rockspec"] = "c4b21f3aaccd2862200369c3264c4ad8"
+}
